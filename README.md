@@ -1,11 +1,11 @@
 ePET
 
-PROJE AMACI
+Proje Amacı
 
 •Günümüzde gelişen veteriner tıpı ve teknoloji ile artık evcil hayvanlarımızın sağlık durumunu daha kolay ve toplu bir şekilde görüntülemeyi, hatırlatma ve zamanında alınan önlemler ile onların da rahat bir hayat sürmesini amaçlıyoruz.
 
 
-HEDEFLERİMİZ
+Hedeflerimiz
 
 •Evcil hayvanlarınızın türüne ve cinsine göre düzenlenmiş özel profiller ile kolayca veterinerinizin oluşturduğu sağlık karnelerini, kan değerleri, tahlilleri, röntgenleri vs. kontrol edebilmeyi,
 
