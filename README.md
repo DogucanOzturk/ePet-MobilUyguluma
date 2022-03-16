@@ -1,5 +1,4 @@
 # proje-onerisi-ePet-Mobil-Uyguluma
-proje-onerisi-epet created by GitHub Classroom
 PROJE AMACI
 
 •Günümüzde gelişen veteriner tıpı ve teknoloji ile artık evcil hayvanlarımızın sağlık durumunu daha kolay ve toplu bir şekilde görüntülemeyi, hatırlatma ve zamanında alınan önlemler ile onların da rahat bir hayat sürmesini amaçlıyoruz.
